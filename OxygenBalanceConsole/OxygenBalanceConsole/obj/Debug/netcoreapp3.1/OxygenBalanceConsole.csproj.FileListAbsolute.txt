@@ -1,0 +1,14 @@
+C:\Users\Roman\source\repos\OxygenBalanceConsole\OxygenBalanceConsole\bin\Debug\netcoreapp3.1\OxygenBalanceConsole.exe
+C:\Users\Roman\source\repos\OxygenBalanceConsole\OxygenBalanceConsole\bin\Debug\netcoreapp3.1\OxygenBalanceConsole.deps.json
+C:\Users\Roman\source\repos\OxygenBalanceConsole\OxygenBalanceConsole\bin\Debug\netcoreapp3.1\OxygenBalanceConsole.runtimeconfig.json
+C:\Users\Roman\source\repos\OxygenBalanceConsole\OxygenBalanceConsole\bin\Debug\netcoreapp3.1\OxygenBalanceConsole.runtimeconfig.dev.json
+C:\Users\Roman\source\repos\OxygenBalanceConsole\OxygenBalanceConsole\bin\Debug\netcoreapp3.1\OxygenBalanceConsole.dll
+C:\Users\Roman\source\repos\OxygenBalanceConsole\OxygenBalanceConsole\bin\Debug\netcoreapp3.1\OxygenBalanceConsole.pdb
+C:\Users\Roman\source\repos\OxygenBalanceConsole\OxygenBalanceConsole\bin\Debug\netcoreapp3.1\PeriodicTable.dll
+C:\Users\Roman\source\repos\OxygenBalanceConsole\OxygenBalanceConsole\bin\Debug\netcoreapp3.1\PeriodicTable.pdb
+C:\Users\Roman\source\repos\OxygenBalanceConsole\OxygenBalanceConsole\obj\Debug\netcoreapp3.1\OxygenBalanceConsole.csprojAssemblyReference.cache
+C:\Users\Roman\source\repos\OxygenBalanceConsole\OxygenBalanceConsole\obj\Debug\netcoreapp3.1\OxygenBalanceConsole.AssemblyInfoInputs.cache
+C:\Users\Roman\source\repos\OxygenBalanceConsole\OxygenBalanceConsole\obj\Debug\netcoreapp3.1\OxygenBalanceConsole.AssemblyInfo.cs
+C:\Users\Roman\source\repos\OxygenBalanceConsole\OxygenBalanceConsole\obj\Debug\netcoreapp3.1\OxygenBalanceConsole.csproj.CopyComplete
+C:\Users\Roman\source\repos\OxygenBalanceConsole\OxygenBalanceConsole\obj\Debug\netcoreapp3.1\OxygenBalanceConsole.dll
+C:\Users\Roman\source\repos\OxygenBalanceConsole\OxygenBalanceConsole\obj\Debug\netcoreapp3.1\OxygenBalanceConsole.pdb
